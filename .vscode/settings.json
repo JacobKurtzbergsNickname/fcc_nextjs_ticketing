@@ -1,0 +1,19 @@
+{
+    // Tailwind CSS settings
+    "css.validate": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "*.js": "tailwindcss"
+
+      },
+    "tailwindCSS.codeActions": true,
+    "tailwindCSS.colorDecorators": true,
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.hovers": true,
+    "tailwindCSS.lint.cssConflict": "warning",
+}
